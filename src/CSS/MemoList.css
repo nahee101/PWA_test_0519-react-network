@@ -1,0 +1,26 @@
+.text-style {
+    color: #5F4C73;
+
+}
+
+.memo-style {
+    background-color: #F2D680;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    padding: 10px;
+    color: #025159;
+}
+
+.input-style {
+    background-color: #F2D680;
+    text-align: center;
+    border: none;
+    border-bottom: solid 2px #025159;
+    margin: 5px 10px;
+    color: #5F4C73;
+}
+
+div td {
+    padding: 5px 10px;
+}
